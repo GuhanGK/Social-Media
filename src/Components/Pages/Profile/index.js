@@ -27,6 +27,7 @@ const Profile = () => {
             <Button className="w-[100%] h-[32px] border border-[#00000057] rounded-[36px]">
             Edit Profile
             </Button>
+            
         </NavLink>
       </div>
       <div className="p-2">
