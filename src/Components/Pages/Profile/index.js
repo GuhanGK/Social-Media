@@ -25,9 +25,9 @@ const Profile = () => {
       <div className="mt-3 flex justify-end me-2">
         <NavLink to="/profile-edit" className="w-[50%] h-[32px]">
             <Button className="w-[100%] h-[32px] border border-[#00000057] rounded-[36px]">
-            Edit Profile
+                Edit Profile pahe
             </Button>
-            
+
         </NavLink>
       </div>
       <div className="p-2">
